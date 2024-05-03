@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @azhigma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, my name is Azhigma!
 
-<!---
-azhigma/azhigma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me:
+
+I'm interested in data. One of my projects you can see at the link below:
+- [SQL Project](https://github.com/azhigma/SQL_projects)
+- [Simple ETL](https://github.com/azhigma/ETL)
+
