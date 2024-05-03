@@ -1,4 +1,4 @@
-### Hi, my name is Azhigma!
+# Hi, my name is Azhigma!
 
 ## About me:
 
